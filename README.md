@@ -51,7 +51,8 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 
 </p>
-## 📈 GitHub Stats  
+
+### 📈 GitHub Stats  :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=og-ananyaa&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=og-ananyaa&layout=compact&theme=radical" height="180px"/>
