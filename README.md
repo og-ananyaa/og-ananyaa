@@ -3,10 +3,10 @@
 
 ---
 
--  I’m currently exploring **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**
--  Constantly learning and building cool things 💻  
--  Ask me about anything tech-related – happy to help!  
--  Reach me at: **ananyaapriyadarshini0808@gmail.com**
+-  🔭 I’m currently exploring **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**
+-  💻 Constantly learning and building cool things  
+-  💬 Open to discussions or anything — feel free to reach out!  
+-  📬 Drop a message at: ananyaapriyadarshini0808@gmail.com
 
 ---
 
@@ -34,16 +34,3 @@
 ---
 
 
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=og-ananyaa&show_icons=true&theme=tokyonight" alt="Ananyaa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=og-ananyaa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Fun Fact:
-> “Stay curious, stay creative, stay coding.” 💡  
