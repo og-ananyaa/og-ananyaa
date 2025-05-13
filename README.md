@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, I'm Ananyaa Priyadarshini</h1>
-<h3 align="center">🚀 Computer Science Undergrad at PEC, Chandigarh</h3>
+<h3 align="center">🚀 Computer Science Undergrad | PEC Chandigarh, Batch of '27</h3>
+
 
 ---
 
