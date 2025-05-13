@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Tech GIF">
-</p>
 
 <h1 align="center">Hi, I'm Ananyaa Priyadarshini</h1>
 <h3 align="center">🚀 Computer Science Undergrad at PEC, Chandigarh</h3>
