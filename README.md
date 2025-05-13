@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=✨+Passionate+Learner+%26+Builder;🌐+Web+Dev+%7C+ML+%7C+DSA+Enthusiast;👩‍💻+Open+Source+Contributor" alt="Typing SVG" />
+</div>
 <h1 align="center">Hi, I'm Ananyaa Priyadarshini</h1>
 <h3 align="center">🚀 Computer Science Undergrad at PEC, Chandigarh</h3>
 
