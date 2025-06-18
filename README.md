@@ -1,21 +1,27 @@
-
 <h1 align="center">Hi, I'm Ananyaa Priyadarshini</h1>
 <h3 align="center">Pre-Final Year CSE Student (PEC'27) </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=og-ananyaa&label=Profile%20views&color=0e75b6&style=flat" alt="og-ananyaa" />
+</p>
 
 ---
 
--  🔭 I’m currently exploring **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**
--  💻 Constantly learning and building cool things  
--  💬 Open to discussions or anything — feel free to reach out!  
--  📬 Drop a message at: ananyaapriyadarshini0808@gmail.com
+- 🔭 I’m currently exploring **Data Structures & Algorithms**, **Web Development**, and **Machine Learning**  
+- 💻 Constantly learning and building cool things  
+- 💬 Open to discussions or anything — feel free to reach out!  
+- 📬 Drop a message at: ananyaapriyadarshini0808@gmail.com
 
 ---
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/ananyaa-priyadarshini-09675128b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:ananyaapriyadarshini0808@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/ananyaa-priyadarshini-09675128b" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:ananyaapriyadarshini0808@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
+  </a>
 </p>
 
 ---
@@ -28,7 +34,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -51,15 +57,12 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-
-</p>
-
-### 📈 GitHub Stats  :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=og-ananyaa&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=og-ananyaa&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
 
-
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=og-ananyaa&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=og-ananyaa&layout=compact&theme=radical" height="180px"/>
+</p>
